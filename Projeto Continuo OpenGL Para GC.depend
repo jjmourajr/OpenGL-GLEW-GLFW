@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1434383718 source:c:\users\josejoao\desktop\projeto\projeto atualizado\main.cpp
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+
+1426812048 c:\users\josejoao\desktop\projeto\projeto atualizado\include\glfw\glfw3.h
+	<stddef.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES3/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES3/gl2ext.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+
+1422379094 c:\users\josejoao\desktop\projeto\projeto atualizado\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
